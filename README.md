@@ -1,10 +1,12 @@
-# BeCode: Jekill&Philiiiiippe
+# BeCode: Jekyll Workshop
 
 > 🛰️ Short project's description
+Jekyll tutorial done during the workshop given by Jeremy & Jonathan
+Link to the [github page](https://matthieujasselette.github.io/jekyll_workshop/)
 
 * * *
 
-A short abstract of the project, goals, context… Anything that should be useful for a future reader.
+
 
 ## About
 
@@ -20,4 +22,4 @@ How to use the project, if applicable
 
 * * *
 
-June 2019, MatthieuJ, Philiiiippe.
+June 2019, MatthieuJ.
